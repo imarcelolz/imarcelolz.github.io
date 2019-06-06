@@ -4,8 +4,9 @@ url: 'http://imarcelolz.github.io'
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
-#style: styles-2
-style: styles-3
+#style: styles-1
+style: styles-2
+#style: styles-3
 #style: styles-4
 #style: styles-5
 #style: styles-6
@@ -13,7 +14,7 @@ style: styles-3
 
 #Profile information
 name: Ivo Marcelo Leonardi Zaniolo
-tagline: Desenvolvedor <br/> Front e Back End </br> &amp; Empreendedor
+tagline: Software Engineer <br/> Front &amp; Back End Specialist
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
