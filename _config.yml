@@ -14,13 +14,13 @@ style: styles-2
 
 #Profile information
 name: Ivo Marcelo Leonardi Zaniolo
-tagline: Software Engineer <br/> Front &amp; Back End Specialist
+tagline: Software Engineer <br/> FrontEnd Specialist
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: imarcelolz@gmail.com
-phone: +55 (71) 993-023-400
-website: blog.webjeda.com #do not add http://
+phone: +49 176 2615-1702
+#website: blog.webjeda.com #do not add http://
 linkedin: imarcelolz
 github: imarcelolz
 twitter: '@imarcelolz'
